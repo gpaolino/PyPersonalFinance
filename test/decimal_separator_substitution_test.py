@@ -1,6 +1,6 @@
 import unittest
 
-from my_utilities import decimal_separator_substitution
+from src.my_utilities import decimal_separator_substitution
 
 
 class Test_TestDecimalSeparatorSubstitution(unittest.TestCase):
