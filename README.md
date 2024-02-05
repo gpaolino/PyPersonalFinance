@@ -31,6 +31,7 @@ comm==0.2.0
 debugpy==1.8.0
 decorator==5.1.1
 defusedxml==0.7.1
+et-xmlfile==1.1.0
 executing==2.0.1
 fastjsonschema==2.19.0
 fqdn==1.5.1
@@ -67,6 +68,7 @@ nest-asyncio==1.5.8
 notebook==7.0.6
 notebook_shim==0.2.3
 numpy==1.26.2
+openpyxl==3.1.2
 overrides==7.4.0
 packaging==23.2
 pandas==2.1.3
